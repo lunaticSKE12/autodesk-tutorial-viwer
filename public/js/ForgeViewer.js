@@ -15,6 +15,7 @@ function launchViewer(urn) {
           'ModelSummaryExtension',
           'LoggerExtension',
           'DataGridExtension',
+          'MyAwesomeExtension',
         ],
       }
     );
